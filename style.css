@@ -99,3 +99,17 @@ body{
     transition: opacity 500ms;
     visibility: hidden;
     opacity: 0;
+}
+.logo2{
+      width: 8%;
+      height: 50%;
+      font-size: 10px;
+      margin: 0 !important;
+      align-content: center;
+
+    }
+
+.texted {
+      font-family:   'Raleway', sans-serif;
+      color: red;      
+}
